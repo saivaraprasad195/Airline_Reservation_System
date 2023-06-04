@@ -1,4 +1,4 @@
-**#Airline Reservation System**
+#Airline Reservation System#
 
 This is an airline reservation system implemented using Java Swing and MySQL.
 The system allows admin to login, add flight detials, search for flights, book tickets, view ticket details, add customers, and perform various administrative tasks.
