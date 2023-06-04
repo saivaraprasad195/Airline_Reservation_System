@@ -15,8 +15,8 @@ Database Integration: The system integrates with a MySQL database to store and r
 
 **Requirements:**
 
-Java Supported IDE
-Java Development Kit (JDK) 8 or higher
-MySQL database server
-MySQL Connector/J library(JDBC)
-Apache Maven (for building the project)
+Java Supported IDE.
+Java Development Kit (JDK) 8 or higher.
+MySQL database server.
+MySQL Connector/J library(JDBC).
+Apache Maven (for building the project).
